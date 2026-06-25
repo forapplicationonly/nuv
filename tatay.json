@@ -4097,24 +4097,27 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
         "titleLogoUrl": "https://i.ibb.co/4Zm1PpJK/philippines.png",
-        "coverImageUrl": "https://i.ibb.co/nMkJmtM9/ph.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/ph.png",
         "catalogSources": [
           {
             "type": "movie",
-            "genre": "None",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.35921"
           },
           {
             "type": "movie",
-            "genre": "None",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.171345"
           },
           {
             "type": "series",
-            "genre": "None",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.171351"
           }
@@ -11194,8 +11197,11 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "titleLogoUrl": "https://i.ibb.co/SDJPqTmP/arnol.png",
-        "coverImageUrl": "https://i.ibb.co/HpLL1Cg0/arnold.png",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/arnol.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/arnold.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -11204,7 +11210,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/1tYm1kpW/arnold.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/arnold.jpg"
       },
       {
         "id": "80edafee-2870-46d7-b8f4-cdff33768ddf",
@@ -11228,8 +11234,11 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "titleLogoUrl": "https://i.ibb.co/4gfM1N3Z/statam.png",
-        "coverImageUrl": "https://i.ibb.co/hFdpfJzv/statham.png",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/statam.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/statham.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -11238,7 +11247,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/gZP469F2/statham.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/statham.jpg"
       },
       {
         "id": "241d33b9-6fca-4a6b-9546-7c4cd6ecb122",
@@ -11262,8 +11271,11 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "titleLogoUrl": "https://i.ibb.co/Wvfky8ff/chan.png",
-        "coverImageUrl": "https://i.ibb.co/tMn4phmY/jackie.png",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/chan.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/jackie.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -11272,7 +11284,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/KpQ3RwXS/chan.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/chan.jpg"
       },
       {
         "id": "faa079ff-3bdd-4a82-a35b-c2a27ec1831e",
@@ -11296,8 +11308,11 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "titleLogoUrl": "https://i.ibb.co/pBr1cZ8Y/keanoo.png",
-        "coverImageUrl": "https://i.ibb.co/5WxPmFyn/keanu.png",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/keanoo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/keanu.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -11306,7 +11321,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/HDXndSTk/keanu.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/keanu.jpg"
       },
       {
         "id": "folder-mdblist-57219",

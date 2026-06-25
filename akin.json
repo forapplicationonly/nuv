@@ -633,7 +633,7 @@
         "focusGifUrl": "https://64.media.tumblr.com/9f93a9fc2e02fb466eb02a7d2247cb6e/a5b604d3737fc559-49/s500x750/403804744183922f6091d48139021fc3da22f786.gifv",
         "heroVideoUrl": "",
         "titleLogoUrl": "https://github.com/bramst0ne/prism-wallpapers/blob/main/collections/networks/213-netflix/logos/color/213_color_1.png?raw=true",
-        "coverImageUrl": "https://imkaptain.github.io/nuvio-assets/assets/images/49571953.webp",
+        "coverImageUrl": "https://github.com/bramst0ne/prism-wallpapers/blob/main/collections/networks/213-netflix/logos/color/213_color_1.png?raw=true",
         "catalogSources": [
           {
             "type": "movie",
@@ -661,21 +661,25 @@
           },
           {
             "type": "Netflix Top 10 Movies",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.netflix.world.movie"
           },
           {
             "type": "Netflix Top 10 Series",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.netflix.world.series"
           },
           {
             "type": "All Movies on Netflix",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.13914"
           },
           {
             "type": "All Series on Netflix",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.13963"
           }
@@ -800,21 +804,25 @@
           },
           {
             "type": "Prime Video Top 10 Movies",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.amazon-prime.world.movie"
           },
           {
             "type": "Prime Video Top 10 Series",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.amazon-prime.world.series"
           },
           {
             "type": "All Movies on Amazon Prime Video",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.3308"
           },
           {
             "type": "All Series on Amazon Prime Video",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.13964"
           }
@@ -939,21 +947,25 @@
           },
           {
             "type": "Max Top 10 Movies",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.hbo-max.world.movie"
           },
           {
             "type": "Max Top 10 Series",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.hbo-max.world.series"
           },
           {
             "type": "All Movies on HBO Max",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.137619"
           },
           {
             "type": "All Series on HBO Max",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.5975"
           }
@@ -1063,16 +1075,19 @@
           },
           {
             "type": "Apple TV+ Top 10 Movies",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.apple-tv.world.movie"
           },
           {
             "type": "Apple TV+ Top 10 Series",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.apple-tv.world.series"
           },
           {
             "type": "All Movies on Apple TV+",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "streaming.atp_movie"
           }
@@ -1227,31 +1242,37 @@
           },
           {
             "type": "Disney+ Top 10 Movies",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.disney.world.movie"
           },
           {
             "type": "Disney+ Top 10 Series",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.disney.world.series"
           },
           {
             "type": "All Movies on Disney+",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "streaming.dnp_movie"
           },
           {
             "type": "Marvel Universe",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.3022"
           },
           {
             "type": "Star Wars Collection",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.155432"
           },
           {
             "type": "National Geographic Collection",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.47025"
           }
@@ -1406,31 +1427,37 @@
           },
           {
             "type": "Paramount+ Top 10 Movies",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.paramount.world.movie"
           },
           {
             "type": "Paramount+ Top 10 Series",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.paramount.world.series"
           },
           {
             "type": "All Movies on Paramount+",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "streaming.pmp_movie"
           },
           {
             "type": "Star Trek Universe Collection",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.143870"
           },
           {
             "type": "Yellowstone Universe Collection",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.143090"
           },
           {
             "type": "Nickelodeon Collection",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.47079"
           }
@@ -1510,6 +1537,7 @@
           },
           {
             "type": "All Movies on Peacock",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "streaming.pcp_movie"
           }
@@ -1619,16 +1647,19 @@
           },
           {
             "type": "Top Rated Discovery+ Shows",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.10073359"
           },
           {
             "type": "Investigative Documentaries",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.24712"
           },
           {
             "type": "All Movies on Discovery+",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "streaming.dpe_movie"
           }
@@ -1708,6 +1739,7 @@
           },
           {
             "type": "All Movies on Hulu",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "streaming.hlu_movie"
           }
@@ -1817,16 +1849,19 @@
           },
           {
             "type": "Crunchyroll Top 100 Rated Movies",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.88381"
           },
           {
             "type": "Crunchyroll Top 100 Rated Series",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.88257"
           },
           {
             "type": "All Movies on Crunchyroll",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "streaming.cru_movie"
           }
@@ -1906,6 +1941,7 @@
           },
           {
             "type": "All Movies on MUBI",
+            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "streaming.mub_movie"
           }
@@ -4228,7 +4264,7 @@
         "focusGifUrl": null,
         "heroVideoUrl": null,
         "titleLogoUrl": "https://i.ibb.co/4Zm1PpJK/philippines.png",
-        "coverImageUrl": "https://i.ibb.co/nMkJmtM9/ph.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/ph.png",
         "catalogSources": [
           {
             "type": "movie",
@@ -15018,15 +15054,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Robert%20De%20Niro.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Robert%20De%20Niro.jpg",
         "catalogSources": [
           {
             "type": "Robert De Niro",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57176"
           }
@@ -15056,15 +15091,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Al%20Pacino.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Al%20Pacino.jpg",
         "catalogSources": [
           {
             "type": "Al Pacino",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57177"
           }
@@ -15094,21 +15128,20 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/TDXhKTYX/stallon.png",
-        "coverImageUrl": "https://i.ibb.co/Q3RKntML/stallone.png",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/stallon.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/stallone.png",
         "catalogSources": [
           {
             "type": "movie",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.171498"
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/r2GWFKKf/stallone.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/stallone.jpg"
       },
       {
         "id": "folder-trakt-list-808721",
@@ -15116,7 +15149,7 @@
         "sources": [
           {
             "type": "all",
-            "genre": "None",
+            "genre": "",
             "title": null,
             "sortBy": null,
             "tmdbId": null,
@@ -15132,15 +15165,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Meryl%20Streep.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Meryl%20Streep.jpg",
         "catalogSources": [
           {
             "type": "all",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.nobnobz.actor-meryl-streep-iemrv3tagy"
           }
@@ -15170,15 +15202,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Jack%20Nicholson.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Jack%20Nicholson.jpg",
         "catalogSources": [
           {
             "type": "Jack Nicholson",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.10158745"
           }
@@ -15208,15 +15239,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Anthony%20Hopkins.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Anthony%20Hopkins.jpg",
         "catalogSources": [
           {
             "type": "Anthony Hopkins",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57179"
           }
@@ -15246,15 +15276,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Morgan%20Freeman.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Morgan%20Freeman.jpg",
         "catalogSources": [
           {
             "type": "Morgan Freeman",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57185"
           }
@@ -15284,15 +15313,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Daniel%20Day-Lewis.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Daniel%20Day-Lewis.jpg",
         "catalogSources": [
           {
             "type": "Daniel Day-Lewis",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.tU6Og"
           }
@@ -15322,15 +15350,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Christian%20Bale.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Christian%20Bale.jpg",
         "catalogSources": [
           {
             "type": "Christian Bale",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57202"
           }
@@ -15360,15 +15387,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Jake%20Gyllenhaal.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Jake%20Gyllenhaal.jpg",
         "catalogSources": [
           {
             "type": "Jake Gyllenhaal",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.77131"
           }
@@ -15398,15 +15424,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Ryan%20Gosling.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Ryan%20Gosling.jpg",
         "catalogSources": [
           {
             "type": "Ryan Gosling",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.157927"
           }
@@ -15436,15 +15461,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Margot%20Robbie.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Margot%20Robbie.jpg",
         "catalogSources": [
           {
             "type": "Margot Robbie",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.76456"
           }
@@ -15474,15 +15498,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Natalie%20Portman.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Natalie%20Portman.jpg",
         "catalogSources": [
           {
             "type": "Natalie Portman",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.100770"
           }
@@ -15512,15 +15535,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Timoth%C3%A9e%20Chalamet.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Timoth%C3%A9e%20Chalamet.jpg",
         "catalogSources": [
           {
             "type": "Timothée Chalamet",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.158987"
           }
@@ -15550,15 +15572,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Joaquin%20Phoenix.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Joaquin%20Phoenix.jpg",
         "catalogSources": [
           {
             "type": "Joaquin Phoenix",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57200"
           }
@@ -15588,15 +15609,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Florence%20Pugh.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Florence%20Pugh.jpg",
         "catalogSources": [
           {
             "type": "Florence Pugh",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.159033"
           }
@@ -15626,15 +15646,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Scarlett%20Johansson.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Scarlett%20Johansson.jpg",
         "catalogSources": [
           {
             "type": "Scarlett Johansson",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.114401"
           }
@@ -15664,15 +15683,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Cate%20Blanchett.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Cate%20Blanchett.jpg",
         "catalogSources": [
           {
             "type": "Cate Blanchett",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.120264"
           }
@@ -15702,15 +15720,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Emma%20Stone.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Emma%20Stone.jpg",
         "catalogSources": [
           {
             "type": "Emma Stone",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.157930"
           }
@@ -15740,15 +15757,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Peter%20Sellers.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Peter%20Sellers.jpg",
         "catalogSources": [
           {
             "type": "Peter Sellers",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.157993"
           }
@@ -15778,15 +15794,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Leonardo%20Dicaprio.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Leonardo%20Dicaprio.jpg",
         "catalogSources": [
           {
             "type": "Leonardo Dicaprio",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.55447"
           }
@@ -15816,15 +15831,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Mark%20Wahlberg.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Mark%20Wahlberg.jpg",
         "catalogSources": [
           {
             "type": "Mark Wahlberg",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.55781"
           }
@@ -15854,15 +15868,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Tom%20Hanks.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Tom%20Hanks.jpg",
         "catalogSources": [
           {
             "type": "Tom Hanks",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57178"
           }
@@ -15892,15 +15905,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Denzel%20Washington.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Denzel%20Washington.jpg",
         "catalogSources": [
           {
             "type": "Denzel Washington",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57180"
           }
@@ -15930,15 +15942,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Michael%20Caine.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Michael%20Caine.jpg",
         "catalogSources": [
           {
             "type": "Michael Caine",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57181"
           }
@@ -15968,15 +15979,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/James%20Stewart.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/James%20Stewart.jpg",
         "catalogSources": [
           {
             "type": "James Stewart",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57182"
           }
@@ -16006,15 +16016,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Robin%20Williams.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Robin%20Williams.jpg",
         "catalogSources": [
           {
             "type": "Robin Williams",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57183"
           }
@@ -16044,15 +16053,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Robert%20Duvall.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Robert%20Duvall.jpg",
         "catalogSources": [
           {
             "type": "Robert Duvall",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57184"
           }
@@ -16082,15 +16090,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Jeff%20Bridges.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Jeff%20Bridges.jpg",
         "catalogSources": [
           {
             "type": "Jeff Bridges",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57186"
           }
@@ -16120,15 +16127,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Clint%20Eastwood.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Clint%20Eastwood.jpg",
         "catalogSources": [
           {
             "type": "Clint Eastwood",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57187"
           }
@@ -16158,15 +16164,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Gene%20Hackman.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Gene%20Hackman.jpg",
         "catalogSources": [
           {
             "type": "Gene Hackman",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57188"
           }
@@ -16196,15 +16201,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Philip%20Seymour%20Hoffman.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Philip%20Seymour%20Hoffman.jpg",
         "catalogSources": [
           {
             "type": "Philip Seymour Hoffman",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57190"
           }
@@ -16234,15 +16238,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Russell%20Crowe.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Russell%20Crowe.jpg",
         "catalogSources": [
           {
             "type": "Russell Crowe",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57191"
           }
@@ -16272,15 +16275,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Tommy%20Lee%20Jones.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Tommy%20Lee%20Jones.jpg",
         "catalogSources": [
           {
             "type": "Tommy Lee Jones",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57193"
           }
@@ -16310,15 +16312,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Sean%20Connery.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Sean%20Connery.jpg",
         "catalogSources": [
           {
             "type": "Sean Connery",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57194"
           }
@@ -16348,15 +16349,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Chistopher%20Walken.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Christopher%20Walken.jpg",
         "catalogSources": [
           {
             "type": "Chistopher Walken",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57195"
           }
@@ -16386,15 +16386,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Joe%20Pesci.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Joe%20Pesci.jpg",
         "catalogSources": [
           {
             "type": "Joe Pesci",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57196"
           }
@@ -16424,15 +16423,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Jon%20Voight.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Jon%20Voight.jpg",
         "catalogSources": [
           {
             "type": "Jon Voight",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57197"
           }
@@ -16462,15 +16460,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Heath%20Ledger.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Heath%20Ledger.jpg",
         "catalogSources": [
           {
             "type": "Heath Ledger",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57198"
           }
@@ -16500,15 +16497,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Johnny%20Depp.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Johnny%20Depp.jpg",
         "catalogSources": [
           {
             "type": "Johnny Depp",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57199"
           }
@@ -16538,15 +16534,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Matthew%20McConaughey.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Matthew%20McConaughey.jpg",
         "catalogSources": [
           {
             "type": "Matthew McConaughey",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57201"
           }
@@ -16576,15 +16571,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Edward%20Norton.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Edward%20Norton.jpg",
         "catalogSources": [
           {
             "type": "Edward Norton",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57203"
           }
@@ -16614,15 +16608,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Brad%20Pitt.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Brad%20Pitt.jpg",
         "catalogSources": [
           {
             "type": "Brad Pitt",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57204"
           }
@@ -16652,15 +16645,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Matt%20Damon.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Matt%20Damon.jpg",
         "catalogSources": [
           {
             "type": "Matt Damon",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57205"
           }
@@ -16690,15 +16682,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Hugh%20Jackman.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Hugh%20Jackman.jpg",
         "catalogSources": [
           {
             "type": "Hugh Jackman",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57206"
           }
@@ -16728,15 +16719,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Robert%20Downey%20Jr.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Robert%20Downey%20Jr.jpg",
         "catalogSources": [
           {
             "type": "Robert Downey Jr",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57218"
           }
@@ -16766,15 +16756,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Liam%20Neeson.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Liam%20Neeson.jpg",
         "catalogSources": [
           {
             "type": "Liam Neeson",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57219"
           }
@@ -16804,15 +16793,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Mel%20Gibson.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Mel%20Gibson.jpg",
         "catalogSources": [
           {
             "type": "Mel Gibson",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57220"
           }
@@ -16842,15 +16830,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Bill%20Murray.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Bill%20Murray.jpg",
         "catalogSources": [
           {
             "type": "Bill Murray",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57221"
           }
@@ -16880,15 +16867,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Samuel%20L%20Jackson.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Samuel%20L%20Jackson.jpg",
         "catalogSources": [
           {
             "type": "Samuel L Jackson",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57222"
           }
@@ -16918,15 +16904,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Jim%20Carrey.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Jim%20Carrey.jpg",
         "catalogSources": [
           {
             "type": "Jim Carrey",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57223"
           }
@@ -16956,15 +16941,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Will%20Smith.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Will%20Smith.jpg",
         "catalogSources": [
           {
             "type": "Will Smith",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57224"
           }
@@ -16994,15 +16978,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/John%20Goodman.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/John%20Goodman.jpg",
         "catalogSources": [
           {
             "type": "John Goodman",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57225"
           }
@@ -17032,15 +17015,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Actors/logo/Bruce%20Willis.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Bruce%20Willis.jpg",
         "catalogSources": [
           {
             "type": "Bruce Willis",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.77888"
           }
@@ -17070,21 +17052,20 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/4gfM1N3Z/statam.png",
-        "coverImageUrl": "https://i.ibb.co/hFdpfJzv/statham.png",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/statam.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/statham.png",
         "catalogSources": [
           {
             "type": "movie",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.171504"
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/gZP469F2/statham.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/statham.jpg"
       },
       {
         "id": "faa079ff-3bdd-4a82-a35b-c2a27ec1831e",
@@ -17108,21 +17089,20 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/pBr1cZ8Y/keanoo.png",
-        "coverImageUrl": "https://i.ibb.co/5WxPmFyn/keanu.png",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/keanoo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/keanu.png",
         "catalogSources": [
           {
             "type": "movie",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.171499"
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/HDXndSTk/keanu.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/keanu.jpg"
       },
       {
         "id": "241d33b9-6fca-4a6b-9546-7c4cd6ecb122",
@@ -17146,21 +17126,20 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/Wvfky8ff/chan.png",
-        "coverImageUrl": "https://i.ibb.co/tMn4phmY/jackie.png",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/chan.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/jackie.png",
         "catalogSources": [
           {
             "type": "movie",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.171503"
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/KpQ3RwXS/chan.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/chan.jpg"
       },
       {
         "id": "716c5375-0c20-43c0-8424-94e301b67e13",
@@ -17184,27 +17163,26 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/SDJPqTmP/arnol.png",
-        "coverImageUrl": "https://i.ibb.co/HpLL1Cg0/arnold.png",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/arnol.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/arnold.png",
         "catalogSources": [
           {
             "type": "movie",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.171523"
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/1tYm1kpW/arnold.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/arnold.jpg"
       }
     ],
     "pinToTop": true,
     "viewMode": "TABBED_GRID",
     "showAllTab": true,
-    "backdropImageUrl": null,
+    "backdropImageUrl": "",
     "focusGlowEnabled": false
   },
   {
@@ -17233,15 +17211,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Christopher%20Nolan.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Christopher%20Nolan.jpg",
         "catalogSources": [
           {
             "type": "Director: Nolan",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.yG7fS"
           }
@@ -17271,21 +17248,20 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/Z67vhkYw/cameron.png",
-        "coverImageUrl": "https://i.ibb.co/FLB3G8rg/cameron.png",
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
+        "titleLogoUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/cam.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/cameron.png",
         "catalogSources": [
           {
             "type": "movie",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "mdblist.171505"
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/XxfQQzqV/cameron.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/forapplicationonly/nuv/refs/heads/master/assets/cameron.jpg"
       },
       {
         "id": "folder-e1ddbbe7",
@@ -17309,15 +17285,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Martin%20Scorsese.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Martin%20Scorsese.jpg",
         "catalogSources": [
           {
             "type": "Director: Martin Scorsese",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241136"
           }
@@ -17347,15 +17322,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/David%20Fincher.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/David%20Fincher.jpg",
         "catalogSources": [
           {
             "type": "Director: David Fincher",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241262"
           }
@@ -17385,15 +17359,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Quentin%20Tarantino.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Quentin%20Tarantino.jpg",
         "catalogSources": [
           {
             "type": "Director: Quentin Tarantino",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.1558961"
           }
@@ -17423,15 +17396,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Stanley%20Kubrick.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Stanley%20Kubrick.jpg",
         "catalogSources": [
           {
             "type": "Director: Stanley Kubrick",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241405"
           }
@@ -17461,15 +17433,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Denis%20Villeneuve.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Denis%20Villeneuve.jpg",
         "catalogSources": [
           {
             "type": "Director: Denis Villeneuve",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241294"
           }
@@ -17499,15 +17470,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Wes%20Anderson.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Wes%20Anderson.jpg",
         "catalogSources": [
           {
             "type": "Director: Wes Anderson",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6252074"
           }
@@ -17537,15 +17507,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Steven%20Spielberg.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Steven%20Spielberg.jpg",
         "catalogSources": [
           {
             "type": "Director: Steven Spielberg",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241187"
           }
@@ -17575,15 +17544,14 @@
         ],
         "hideTitle": true,
         "tileShape": "POSTER",
-        "coverEmoji": null,
-        "focusGifUrl": null,
-        "heroVideoUrl": null,
+        "coverEmoji": "",
+        "focusGifUrl": "",
+        "heroVideoUrl": "",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Ridley%20Scott.png",
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Ridley%20Scott.jpg",
         "catalogSources": [
           {
             "type": "Director: Ridley Scott",
-            "genre": null,
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241250"
           }
@@ -17595,7 +17563,7 @@
     "pinToTop": true,
     "viewMode": "TABBED_GRID",
     "showAllTab": true,
-    "backdropImageUrl": null,
+    "backdropImageUrl": "",
     "focusGlowEnabled": false
   },
   {
